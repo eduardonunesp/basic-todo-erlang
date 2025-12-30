@@ -1,8 +1,8 @@
-{application, todo_app, [
+{application, todo, [
     {description, "An OTP application"},
     {vsn, "0.1.0"},
     {registered, []},
-    {mod, {todo_app_app, []}},
+    {mod, {todo_app, []}},
     {applications, [
         kernel,
         stdlib,

@@ -1,4 +1,4 @@
--module(todo_app_sup).
+-module(todo_sup).
 
 -behaviour(supervisor).
 

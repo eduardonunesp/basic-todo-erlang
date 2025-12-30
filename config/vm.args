@@ -1,6 +1,6 @@
--sname todo_app
+-sname todo
 
--setcookie todo_app_cookie
+-setcookie todo_cookie
 
 +K true
 +A30
